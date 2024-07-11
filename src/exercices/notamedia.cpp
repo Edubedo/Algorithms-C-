@@ -2,8 +2,8 @@
 
 using namespace std;
 
-void operacionBasica() {
-	float a,b,c,d,e,f,result;
+void notaMedia() {
+float a,b,c,d,e,f,result;
 
 
 		cout<<"Ingresa el valor a: "; cin>>a;

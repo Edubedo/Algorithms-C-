@@ -1,10 +1,9 @@
 #include<iostream>
+#include<math.h>
 
 using namespace std;
 
-void operacionBasica();
-
 int main() {
-	operacionBasica();
+
 	return 0;
 }
