@@ -1,9 +1,13 @@
 #include<iostream>
-#include<math.h>
-
 using namespace std;
 
+void numeroParInpar();
+
 int main() {
+	 numeroParInpar();
+
+
 
 	return 0;
+
 }
